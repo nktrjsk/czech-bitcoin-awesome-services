@@ -23,6 +23,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
 - 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
+- ⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
 
 ---
 
