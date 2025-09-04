@@ -20,6 +20,9 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - ⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
 - 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit
+- 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
+- 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
+- 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
 
 ---
 
