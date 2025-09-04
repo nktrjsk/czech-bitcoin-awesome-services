@@ -17,7 +17,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🥹 [TrhKnih.cz](https://www.trhknih.cz/) (Gopay/Confirmo) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) (Confirmo) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) (Gopay/Confirmo) – Webhosting, domény, mailhosting a ostatní hostovací služby
-- ⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
+- 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
 - 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit
 - 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
