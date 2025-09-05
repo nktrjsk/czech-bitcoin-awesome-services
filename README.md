@@ -13,18 +13,24 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 ## Czech services
 
+### Shops
+
 - 🥹 [Alza.cz](https://www.alza.cz/) (Gopay/Confirmo) – e-shop mainly for electronics, but you can get almost anything else there
 - 🥹 [TrhKnih.cz](https://www.trhknih.cz/) (Gopay/Confirmo) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) (Confirmo) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) (Gopay/Confirmo) – Webhosting, domény, mailhosting a ostatní hostovací služby
-- 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
-- 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
 - 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit pomocí Confirma
 - 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
 - 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
 - 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
 - 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
+
+### Services / enterpreneurs
+
+- 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
+- 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
+- 🧡⚡ [No Good Kid](https://www.nogoodkid.com/) – Graphic designer
 
 ---
 
