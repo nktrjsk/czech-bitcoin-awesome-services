@@ -10,6 +10,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 - [Bit.plus](https://bit.plus/) – nákup Bitcoinu v trafikách GECO
 - [BTCMap](https://btcmap.org/) – mapa podniků, které přijímají Bitcoin
+- [Vexl](https://vexl.it/) – aplikace pro P2P výměnu Bitcoinu a ostatních věcí
 
 ## Czech services
 
