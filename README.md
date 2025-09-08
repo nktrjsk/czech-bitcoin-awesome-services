@@ -26,6 +26,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
 - 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
 - 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
+- 🥹 [Trezor](https://trezor.io/) – česká hardwarová peněženka pro Bitcoin a jiné kryptoměny
 
 ### Services / enterpreneurs
 
