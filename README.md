@@ -16,29 +16,43 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 ### Shops
 
-- 🥹 [Alza.cz](https://www.alza.cz/) (Gopay/Confirmo) – e-shop mainly for electronics, but you can get almost anything else there
+#### Books
+
 - 🥹 [TrhKnih.cz](https://www.trhknih.cz/) (Gopay/Confirmo) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
+- 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
+- 🥹 [Reknihy](https://reknihy.cz/) – on-line antikvariát
+
+#### Electronics
+
+- 🥹 [Alza.cz](https://www.alza.cz/) (Gopay/Confirmo) – e-shop mainly for electronics, but you can get almost anything else there
+- 🥹 [Trezor](https://trezor.io/) – česká hardwarová peněženka pro Bitcoin a jiné kryptoměny
+- 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
+
+#### Fashion
+
+- 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
+- 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
+
+#### Others
+
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) (Confirmo) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) (Gopay/Confirmo) – Webhosting, domény, mailhosting a ostatní hostovací služby
 - 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit pomocí Confirma
-- 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
-- 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
-- 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
-- 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
-- 🥹 [Trezor](https://trezor.io/) – česká hardwarová peněženka pro Bitcoin a jiné kryptoměny
+
+
 
 ### Services / enterpreneurs
 
 - 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
 - 🧡⚡ [No Good Kid](https://www.nogoodkid.com/) – Graphic designer
+- ⚡ [Tanglesheep](https://www.tanglesheep.com/) – Feed sheeps with Lightning
 
 ---
 
 - 🥹 [Rohlík](https://rohlik.cz/) – chtějí implementovat Confirmo, nemá zatím prioritu
 - 🥹 [IKEA](https://ikea.cz/) – podpora je zmatená, potenciálně může jít platit přes Confirmo
-- 🥹 [Reknihy](https://reknihy.cz/) – on-line antikvariát
 
 ## Non-Czech services
 
