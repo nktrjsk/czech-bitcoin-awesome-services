@@ -39,6 +39,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) (Gopay/Confirmo) – Webhosting, domény, mailhosting a ostatní hostovací služby
 - 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit pomocí Confirma
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
+- 🥹 [Lékaři bez hranic (MSF)](https://www.lekari-bez-hranic.cz/) – humanitární organizace, která pomáhá po celém světě
 
 
 
