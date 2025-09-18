@@ -18,6 +18,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 #### Books
 
+- 🧡⚡ [xpublish.ink](https://xpublish.ink/) – bitcoin & nostr only nakladatelství 
 - 🥹 [TrhKnih.cz](https://www.trhknih.cz/) (Gopay/Confirmo) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
 - 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
 - 🥹 [Reknihy](https://reknihy.cz/) – on-line antikvariát
