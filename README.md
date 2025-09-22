@@ -19,13 +19,13 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 #### Books
 
 - 🧡⚡ [xpublish.ink](https://xpublish.ink/) – bitcoin & nostr only nakladatelství 
-- 🥹 [TrhKnih.cz](https://www.trhknih.cz/) (Gopay/Confirmo) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
+- 🥹 [TrhKnih.cz](https://www.trhknih.cz/) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
 - 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
 - 🥹 [Reknihy](https://reknihy.cz/) – on-line antikvariát
 
 #### Electronics
 
-- 🥹 [Alza.cz](https://www.alza.cz/) (Gopay/Confirmo) – e-shop mainly for electronics, but you can get almost anything else there
+- 🥹 [Alza.cz](https://www.alza.cz/) – e-shop mainly for electronics, but you can get almost anything else there
 - 🥹 [Trezor](https://trezor.io/) – česká hardwarová peněženka pro Bitcoin a jiné kryptoměny
 - 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
 
@@ -36,9 +36,9 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 #### Others
 
-- 🥹 [Pilulka.cz](https://www.pilulka.cz/) (Confirmo) – lékárna
-- 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) (Gopay/Confirmo) – Webhosting, domény, mailhosting a ostatní hostovací služby
-- 🥹 [Qerko](https://www.qerko.com/) (Confirmo) – V restauracích podporující Qerko lze platit pomocí Confirma
+- 🥹 [Pilulka.cz](https://www.pilulka.cz/) – lékárna
+- 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) – Webhosting, domény, mailhosting a ostatní hostovací služby
+- 🥹 [Qerko](https://www.qerko.com/) – V restauracích podporující Qerko lze platit pomocí Confirma
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
 - 🥹 [Lékaři bez hranic (MSF)](https://www.lekari-bez-hranic.cz/) – humanitární organizace, která pomáhá po celém světě
 
