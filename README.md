@@ -18,7 +18,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 #### Books
 
-- 🧡⚡ [xpublish.ink](https://xpublish.ink/) – bitcoin & nostr only nakladatelství 
+- 🚀 🧡⚡ [xpublish.ink](https://xpublish.ink/) – bitcoin & nostr only nakladatelství 
 - 🥹 [TrhKnih.cz](https://www.trhknih.cz/) – Trh knih je online antikvariát, kde si čtenáři prodávají knihy navzájem.
 - 🥹 [Restorio](https://restorio.cz/) – on-line antikvariát
 - 🥹 [Reknihy](https://reknihy.cz/) – on-line antikvariát
@@ -46,9 +46,9 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 ### Services / enterpreneurs
 
+- 🚀 🧡⚡ [No Good Kid](https://www.nogoodkid.com/) – Graphic designer
 - 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
-- 🧡⚡ [No Good Kid](https://www.nogoodkid.com/) – Graphic designer
 - ⚡ [Tanglesheep](https://www.tanglesheep.com/) – Feed sheeps with Lightning
 
 ---
