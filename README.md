@@ -32,11 +32,15 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 #### Fashion
 
 - 🧡⚡ [Bitcoinoš](https://bitcoinos.cz/) – Trička s motivem Bitcoinu
-- 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnýmmi motivy
+- 🧡⚡ [Trikonoš](https://trikonos.cz/) – Trička s vtipnými motivy
+- 🧡⚡ [Bitcoin by Satoshi](https://bitcoinbysatoshi.cz) – Minimalistické a módní oblečení inspirované Bitcoinem
 
 #### Others
 
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
+- 🧡⚡ [Stackuj.cz shop](https://stackuj.cz/Shop/cs/) – obchod s bitcoinovými věcmi
+- 🧡⚡ [Bitcoinovej kanál shop](https://btcknl.cz/) – obchod s bitcoinovými věcmi
+- 🧡⚡ [Bitperia](https://shop.bitperia.cz/) – obchod s Bitcoinovými věcmi od Braiins
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) – Webhosting, domény, mailhosting a ostatní hostovací služby
 - 🥹 [Qerko](https://www.qerko.com/) – V restauracích podporující Qerko lze platit pomocí Confirma
