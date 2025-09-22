@@ -4,9 +4,12 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 
 ## Explanatory notes
 
+- 🚀 – Bitcoin-only service
 - 🧡 – Bitcoin on-chain
 - ⚡ – Lightning
 - 🥹 – Confirmo (on-chain, Lightning)
+
+---
 
 - [Bit.plus](https://bit.plus/) – nákup Bitcoinu v trafikách GECO
 - [BTCMap](https://btcmap.org/) – mapa podniků, které přijímají Bitcoin
