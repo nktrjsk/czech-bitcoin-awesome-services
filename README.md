@@ -43,7 +43,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [SofAHH!](https://www.sofaah.com/) – Pohovka pro každou srandu
 - 🧡⚡ [Stackuj.cz shop](https://stackuj.cz/Shop/cs/) – obchod s bitcoinovými věcmi
 - 🧡⚡ [Bitcoinovej kanál shop](https://btcknl.cz/) – obchod s bitcoinovými věcmi
-- 🧡⚡ [Bitperia](https://shop.bitperia.cz/) – obchod s Bitcoinovými věcmi od Braiins
+- 🧡⚡ [Bitperia (Braiins store)](https://shop.bitperia.cz/) – obchod s Bitcoinovými věcmi od Braiins
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) – Webhosting, domény, mailhosting a ostatní hostovací služby
 - 🥹 [Qerko](https://www.qerko.com/) – V restauracích podporující Qerko lze platit pomocí Confirma
@@ -57,6 +57,8 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
 - ⚡ [Tanglesheep](https://www.tanglesheep.com/) – Feed sheeps with Lightning
+- ⚡ [BitcoinFax.net](https://bitcoinfax.net/) – Pošlete fax z webové stránky, zaplaťte Lightningem
+- ⚡ [BitcoinPostcards.net](https://bitcoinpostcards.net/) – Pošlete pohlednici z webové stránky, zaplaťte Lightningem
 
 ---
 
