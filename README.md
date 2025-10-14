@@ -31,6 +31,7 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [med-O-mat](https://www.med-o-mat.cz/) – Med-o-mat je inovativní automat na med, navržený speciálně pro drobné včelaře, kteří chtějí nabízet svůj med přímo zákazníkům – snadno, bezpečně a bezhotovostně.
 - 🥹 [Alza.cz](https://www.alza.cz/) – e-shop mainly for electronics, but you can get almost anything else there
 - 🥹 [Trezor](https://trezor.io/) – česká hardwarová peněženka pro Bitcoin a jiné kryptoměny
+- 🥹 [Smarty](https://www.smarty.cz) – prodej elektroniky
 
 #### Fashion
 
@@ -44,11 +45,12 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🧡⚡ [Stackuj.cz shop](https://stackuj.cz/Shop/cs/) – obchod s bitcoinovými věcmi
 - 🧡⚡ [Bitcoinovej kanál shop](https://btcknl.cz/) – obchod s bitcoinovými věcmi
 - 🧡⚡ [Bitperia (Braiins store)](https://shop.bitperia.cz/) – obchod s Bitcoinovými věcmi od Braiins
+- 🧡 [Gold & Silver](https://www.goldasilver.com/) – dodavatel investičních kovů
 - 🥹 [Pilulka.cz](https://www.pilulka.cz/) – lékárna
 - 🥹 [Vedos (předtím Wedos)](https://vedos.cz/) – Webhosting, domény, mailhosting a ostatní hostovací služby
 - 🥹 [Qerko](https://www.qerko.com/) – V restauracích podporující Qerko lze platit pomocí Confirma
 - 🥹 [Lékaři bez hranic (MSF)](https://www.lekari-bez-hranic.cz/) – humanitární organizace, která pomáhá po celém světě
-
+- 🥹 [inSPORTline](https://www.insportline.cz/) – Online obchod s fitness vybavením posiloven značky inSPORTline
 
 
 ### Services / enterpreneurs
@@ -56,9 +58,14 @@ Awesome list of Czech services supporting paying with Bitcoin (or other cryptocu
 - 🚀 🧡⚡ [No Good Kid](https://www.nogoodkid.com/) – Graphic designer
 - 🧡⚡ [Účtovšem](https://uctovsem.cz/) – účetnictví
 - 🧡⚡ [Daně jsou loupež](https://danejsouloupez.cz/) – účetnictví
+- 🧡⚡ [Malmac](https://malmac.io/) – Software development, design & blockchain
+- 🧡⚡ [Vlakfest](https://www.vlakfest.cz) – zážitkové cesty vlakem
 - ⚡ [Tanglesheep](https://www.tanglesheep.com/) – Feed sheeps with Lightning
 - ⚡ [BitcoinFax.net](https://bitcoinfax.net/) – Pošlete fax z webové stránky, zaplaťte Lightningem
 - ⚡ [BitcoinPostcards.net](https://bitcoinpostcards.net/) – Pošlete pohlednici z webové stránky, zaplaťte Lightningem
+- 🥹 [EnerSpot](https://enerspot.cz) – dodavatel elektřiny
+- 🥹 [Pražská plynárenská](https://https://www.ppas.cz) – dodavatel plynu a elektřiny
+- 🥹 [LeoExpress](https://www.leoexpress.com/cs) – vlakový dopravce
 
 ---
 
